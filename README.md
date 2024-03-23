@@ -1,3 +1,5 @@
+# Hi, I'm Martin Múdry!
+
 ## Education
 - 2019 – 2021	MSc. in Industrial Logistics at Technical University of Košice, Slovakia 
 - 2016 – 2019	BSc. in Industrial Logistics at Technical University of Košice, Slovakia
