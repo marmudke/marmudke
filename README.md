@@ -1,12 +1,9 @@
-# Data Analysis, Supply Chain Optimization, BI
-
 ## Education
 - 2019 – 2021	MSc. in Industrial Logistics at Technical University of Košice, Slovakia 
 - 2016 – 2019	BSc. in Industrial Logistics at Technical University of Košice, Slovakia
 
-## Work Experience
-**06/2021 – 11/2023	Garrett Motion Slovakia – Data Analyst**
-**(Global Process Improvement dep.)**
+### Work Experience
+**06/2021 – 11/2023	Garrett Motion Slovakia – Data Analyst (Global Process Improvement dep.)**
 - Development of Power BI reports for KPI tracking, demand analysis and decision-making
 - Process automation in Excel VBA and Power Automate for material planning and forecasting
 - Inventory optimization, demand forecasting and vendor data analysis
