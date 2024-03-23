@@ -1,11 +1,14 @@
-# Data Analysis, Business Intelligence, Supply Chain Optimization
+# Data Analysis, 
+# Business Intelligence, 
+# Supply Chain Optimization
 
 ## Education
 - 2019 – 2021	MSc. in Industrial Logistics at Technical University of Košice, Slovakia 
 - 2016 – 2019	BSc. in Industrial Logistics at Technical University of Košice, Slovakia
 
 ## Work Experience
-**06/2021 – 11/2023	Garrett Motion Slovakia – Data Analyst (Global Process Improvement dep.)**
+**06/2021 – 11/2023	Garrett Motion Slovakia – Data Analyst 
+(Global Process Improvement dep.)**
 - Development of Power BI reports for KPI tracking, demand analysis and decision-making
 - Process automation in Excel VBA and Power Automate for material planning and forecasting
 - Inventory optimization, demand forecasting and vendor data analysis
@@ -18,7 +21,7 @@
 - Production quality reporting
 - Component quality testing
 
-**10/2018 – 05/2019 	U. S. Steel Košice – Logistics services department internship**
+**10/2018 – 05/2019 	U. S. Steel Košice – Logistics department internship**
 - Worked with internal database for road and rail freight transport
 - Organized and archived delivery lists, CMRs, and CIMs for customers
 
@@ -29,8 +32,8 @@
 - Managed quarterly packaging statements
 - Archived, organized, and confirmed delivery lists and CMRs for suppliers and customers
 
-**04/2016 – 07/2016	AT&T Košice – Customer care agent for US based customers**
-- Customer support for phone, television and internet services
+**04/2016 – 07/2016	AT&T Košice – Customer care agent**
+- Customer support for phone, television and internet services for U.S. based customers
 
 ## Language skills
 - English – C2 level (Cambridge Advanced English Certificate)
