@@ -1,19 +1,44 @@
-# Data Scientist
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+# Data Analysis, Business Intelligence, Supply Chain Optimization
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- 2019 – 2021	MSc. in Industrial Logistics at Technical University of Košice, Slovakia 
+- 2016 – 2019	BSc. in Industrial Logistics at Technical University of Košice, Slovakia
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**06/2021 – 11/2023	Garrett Motion Slovakia – Data Analyst (Global Process Improvement dep.)**
+- Development of Power BI reports for KPI tracking, demand analysis and decision-making
+- Process automation in Excel VBA and Power Automate for material planning and forecasting
+- Inventory optimization, demand forecasting and vendor data analysis
+- Preparation of business requirements and testing for new software modules
+- Collaboration on supplier metrics design and transformation
+- Presentation and training on new tools and procedures to users
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**07/2019 – 05/2021	Marelli Slovakia – Quality department internship**
+- Reporting automation in Excel VBA
+- Production quality reporting
+- Component quality testing
 
-## Projects
+**10/2018 – 05/2019 	U. S. Steel Košice – Logistics services department internship**
+- Worked with internal database for road and rail freight transport
+- Organized and archived delivery lists, CMRs, and CIMs for customers
+
+**03/2017 – 12/2017 	U-Shin Slovakia – Logistics department internship**
+- Worked with SAP ERP, created reports from an internal database, updated component information
+- Worked with B2B portals, created KPI reports, forecasted delivery dates
+- Assisted with production planning
+- Managed quarterly packaging statements
+- Archived, organized, and confirmed delivery lists and CMRs for suppliers and customers
+
+**04/2016 – 07/2016	AT&T Košice – Customer care agent for US based customers**
+- Customer support for phone, television and internet services
+
+## Language skills
+- English – C2 level (Cambridge Advanced English Certificate)
+- German – A1 level
+- Slovak – native
+
+## Computer skills
+- SQL, Python, VBA, DAX, M
+- SAP ERP
+- Microsoft Office, Power BI, Power Query, Power Automate
+- Extendsim, Promotic, SketchUp
