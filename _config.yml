@@ -4,5 +4,6 @@ description: Data Analysis, Business Intelligence, Supply Chain Optimization
 linkedin_username: martin-mudry-aa619b15a
 social_links:
 - { platform: linkedin,       user_url: "https://www.linkedin.com/in/martin-mudry-aa619b15a/" }
+<a href="your-link">👔 LinkedIn</a>
 show_downloads: false
-theme: minima
+theme: jekyll-theme-minimal
