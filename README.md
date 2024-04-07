@@ -42,3 +42,7 @@
 - SAP ERP
 - Microsoft Office, Power BI, Power Query, Power Automate
 - Extendsim, Promotic, SketchUp
+
+# Projects
+- Python Machine Learning
+  - [Red Wine Quality](https://github.com/marmudke/Wine_Quality/blob/4d3e50ca9d7aa1b7f02a5608e97f333c4c6b7c2f/README.md)
