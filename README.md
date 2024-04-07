@@ -45,4 +45,4 @@
 
 # Projects
 - Python Machine Learning
-  - [Red Wine Quality](https://github.com/marmudke/Wine_Quality/blob/8bbd5fd33edb17ae382015a30b073cbe6ee0abf7/README.md)
+  - [Red Wine Quality](https://github.com/marmudke/Wine_Quality/blob/a6eea60ceb1de2feb38a82c242000c7df0f720c8/README.md)
