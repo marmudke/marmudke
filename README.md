@@ -19,15 +19,14 @@
 - Component quality testing
 
 **10/2018 – 05/2019 	U. S. Steel Košice – Logistics department internship**
-- Worked with internal database for road and rail freight transport
-- Organized and archived delivery lists, CMRs, and CIMs for customers
+- Delivery list, CMR and CIM management for customers
 
 **03/2017 – 12/2017 	U-Shin Slovakia – Logistics department internship**
-- Worked with SAP ERP, created reports from an internal database, updated component information
-- Worked with B2B portals, created KPI reports, forecasted delivery dates
-- Assisted with production planning
-- Managed quarterly packaging statements
-- Archived, organized, and confirmed delivery lists and CMRs for suppliers and customers
+- Production reporting and component master data update in SAP ERP
+- OTTR reporting, delivery date forecasting in B2B portals
+- Production planning support
+- Quarterly packaging statements management and analysis
+- Delivery list and CMR management for suppliers and customers
 
 **04/2016 – 07/2016	AT&T Košice – Customer care agent**
 - Customer support for phone, television and internet services for U.S. based customers
